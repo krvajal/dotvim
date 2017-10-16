@@ -11,21 +11,33 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0/tota
+~MSle0~/elec
 
 # Last Substitute Search Pattern:
-~MSle0~&12,
+~MSle0&12,
 
 # Last Substitute String:
 $8,
 
 # Command Line History (newest to oldest):
-:wq
-|2,0,1508089042,,"wq"
 :q
-|2,0,1508046138,,"q"
+|2,0,1508116043,,"q"
+:wq
+|2,0,1508115281,,"wq"
 :w
-|2,0,1508045441,,"w"
+|2,0,1508115280,,"w"
+:NERDTree
+|2,0,1508107798,,"NERDTree"
+:e Dropbox/work/q-e/
+|2,0,1508107680,,"e Dropbox/work/q-e/"
+:noh
+|2,0,1508107659,,"noh"
+:nho
+|2,0,1508107655,,"nho"
+:e ~/.vimrc
+|2,0,1508107623,,"e ~/.vimrc"
+:color dracula
+|2,0,1508107511,,"color dracula"
 :!g++ main.cpp
 |2,0,1508020854,,"!g++ main.cpp"
 :e main.cpp
@@ -40,8 +52,6 @@ $8,
 |2,0,1508020722,,"q!"
 :NERDTree ~/Dropbox/work/animus/tsj-web-app/
 |2,0,1508004661,,"NERDTree ~/Dropbox/work/animus/tsj-web-app/"
-:NERDTree
-|2,0,1508004640,,"NERDTree"
 :e m
 |2,0,1508020415,,"e m"
 :hide
@@ -52,8 +62,6 @@ $8,
 |2,0,0,,"tab"
 :Ta
 |2,0,0,,"Ta"
-:noh
-|2,0,0,,"noh"
 :nohg
 |2,0,0,,"nohg"
 :tabclose
@@ -112,12 +120,24 @@ $8,
 |2,0,0,,"syntax on"
 :w!
 |2,0,0,,"w!"
-:'<,'>wq
-|2,0,0,,"'<,'>wq"
-:e sample.cpp
-|2,0,0,,"e sample.cpp"
 
 # Search String History (newest to oldest):
+?/http
+|2,1,1508115213,47,"http"
+?/htto
+|2,1,1508115211,47,"htto"
+?/nels
+|2,1,1508115062,47,"nels"
+?/elec
+|2,1,1508107857,47,"elec"
+?/ele
+|2,1,1508107850,47,"ele"
+?/PW
+|2,1,1508107841,47,"PW"
+?/exx
+|2,1,1508107785,47,"exx"
+?/color
+|2,1,1508107629,47,"color"
 ?/resetP
 |2,1,1508004971,47,"resetP"
 ?/reset
@@ -263,232 +283,303 @@ $8,
 	:buffersz
 |3,0,9,1,2,0,1508000234,":w",":buffersz"
 ""-	CHAR	0
-	  :
-|3,1,36,0,1,0,1508020861,"  :"
+	)
+|3,1,36,0,1,0,1508115271,")"
 
 # File marks:
-'0  4  0  ~/Dropbox/work/q-e/.git/COMMIT_EDITMSG
-|4,48,4,0,1508089042,"~/Dropbox/work/q-e/.git/COMMIT_EDITMSG"
-'1  1  0  /usr/local/bin/gdb
-|4,49,1,0,1508046138,"/usr/local/bin/gdb"
-'2  3  25  ~/.gdbinit
-|4,50,3,25,1508045442,"~/.gdbinit"
-'3  18  0  ~/main.cpp
-|4,51,18,0,1508020881,"~/main.cpp"
-'4  19  0  ~/main.cpp
-|4,52,19,0,1508020722,"~/main.cpp"
-'5  10  0  ~/main.cpp
-|4,53,10,0,1508020722,"~/main.cpp"
-'6  23  8  ~/main.cpp
-|4,54,23,8,1508020709,"~/main.cpp"
-'7  14  8  ~/main.cpp
-|4,55,14,8,1508020709,"~/main.cpp"
-'8  42  9  ~/NERD_tree_2
-|4,56,42,9,1508020527,"~/NERD_tree_2"
-'9  18  6  ~/NERD_tree_2
-|4,57,18,6,1508004633,"~/NERD_tree_2"
+'0  8  0  ~/.vim/README.md
+|4,48,8,0,1508116043,"~/.vim/README.md"
+'1  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,49,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+'2  18  22  ~/.vim/README.md
+|4,50,18,22,1508115281,"~/.vim/README.md"
+'3  18  22  ~/.vim/README.md
+|4,51,18,22,1508115281,"~/.vim/README.md"
+'4  5  0  ~/Dropbox/work/q-e/PW/src/electrons.f90
+|4,52,5,0,1508108020,"~/Dropbox/work/q-e/PW/src/electrons.f90"
+'5  38  24  ~/Dropbox/work/q-e/PW/src/exx.f90
+|4,53,38,24,1508107712,"~/Dropbox/work/q-e/PW/src/exx.f90"
+'6  38  24  ~/Dropbox/work/q-e/PW/src/exx.f90
+|4,54,38,24,1508107712,"~/Dropbox/work/q-e/PW/src/exx.f90"
+'7  4  0  ~/NERD_tree_1
+|4,55,4,0,1508107666,"~/NERD_tree_1"
+'8  1  0  ~/NERD_tree_1
+|4,56,1,0,1508107666,"~/NERD_tree_1"
+'9  4  0  ~/NERD_tree_1
+|4,57,4,0,1508107666,"~/NERD_tree_1"
 
 # Jumplist (newest first):
--'  4  0  ~/Dropbox/work/q-e/.git/COMMIT_EDITMSG
-|4,39,4,0,1508089042,"~/Dropbox/work/q-e/.git/COMMIT_EDITMSG"
--'  4  0  ~/Dropbox/work/q-e/.git/COMMIT_EDITMSG
-|4,39,4,0,1508089042,"~/Dropbox/work/q-e/.git/COMMIT_EDITMSG"
--'  4  0  ~/Dropbox/work/q-e/.git/COMMIT_EDITMSG
-|4,39,4,0,1508089042,"~/Dropbox/work/q-e/.git/COMMIT_EDITMSG"
--'  4  0  ~/Dropbox/work/q-e/.git/COMMIT_EDITMSG
-|4,39,4,0,1508089042,"~/Dropbox/work/q-e/.git/COMMIT_EDITMSG"
--'  1  0  ~/Dropbox/work/q-e/.git/COMMIT_EDITMSG
-|4,39,1,0,1508089023,"~/Dropbox/work/q-e/.git/COMMIT_EDITMSG"
--'  1  0  ~/Dropbox/work/q-e/.git/COMMIT_EDITMSG
-|4,39,1,0,1508089023,"~/Dropbox/work/q-e/.git/COMMIT_EDITMSG"
--'  1  0  ~/Dropbox/work/q-e/.git/COMMIT_EDITMSG
-|4,39,1,0,1508089023,"~/Dropbox/work/q-e/.git/COMMIT_EDITMSG"
--'  1  0  ~/Dropbox/work/q-e/.git/COMMIT_EDITMSG
-|4,39,1,0,1508089023,"~/Dropbox/work/q-e/.git/COMMIT_EDITMSG"
--'  1  0  /usr/local/bin/gdb
-|4,39,1,0,1508046138,"/usr/local/bin/gdb"
--'  1  0  /usr/local/bin/gdb
-|4,39,1,0,1508046138,"/usr/local/bin/gdb"
--'  1  0  /usr/local/bin/gdb
-|4,39,1,0,1508046138,"/usr/local/bin/gdb"
--'  1  0  /usr/local/bin/gdb
-|4,39,1,0,1508046138,"/usr/local/bin/gdb"
--'  1  0  /usr/local/bin/gdb
-|4,39,1,0,1508046138,"/usr/local/bin/gdb"
--'  1  0  /usr/local/bin/gdb
-|4,39,1,0,1508046138,"/usr/local/bin/gdb"
--'  1  0  /usr/local/bin/gdb
-|4,39,1,0,1508046138,"/usr/local/bin/gdb"
--'  1  0  /usr/local/bin/gdb
-|4,39,1,0,1508046138,"/usr/local/bin/gdb"
--'  3  25  ~/.gdbinit
-|4,39,3,25,1508045442,"~/.gdbinit"
--'  3  25  ~/.gdbinit
-|4,39,3,25,1508045442,"~/.gdbinit"
--'  3  25  ~/.gdbinit
-|4,39,3,25,1508045442,"~/.gdbinit"
--'  3  25  ~/.gdbinit
-|4,39,3,25,1508045442,"~/.gdbinit"
--'  3  25  ~/.gdbinit
-|4,39,3,25,1508045442,"~/.gdbinit"
--'  3  25  ~/.gdbinit
-|4,39,3,25,1508045442,"~/.gdbinit"
--'  3  25  ~/.gdbinit
-|4,39,3,25,1508045442,"~/.gdbinit"
--'  3  25  ~/.gdbinit
-|4,39,3,25,1508045442,"~/.gdbinit"
--'  3  25  ~/.gdbinit
-|4,39,3,25,1508045442,"~/.gdbinit"
--'  3  25  ~/.gdbinit
-|4,39,3,25,1508045442,"~/.gdbinit"
--'  3  25  ~/.gdbinit
-|4,39,3,25,1508045442,"~/.gdbinit"
--'  3  25  ~/.gdbinit
-|4,39,3,25,1508045442,"~/.gdbinit"
--'  3  25  ~/.gdbinit
-|4,39,3,25,1508045442,"~/.gdbinit"
--'  3  25  ~/.gdbinit
-|4,39,3,25,1508045442,"~/.gdbinit"
--'  3  25  ~/.gdbinit
-|4,39,3,25,1508045442,"~/.gdbinit"
--'  3  25  ~/.gdbinit
-|4,39,3,25,1508045442,"~/.gdbinit"
--'  1  25  ~/.gdbinit
-|4,39,1,25,1508045435,"~/.gdbinit"
--'  1  25  ~/.gdbinit
-|4,39,1,25,1508045435,"~/.gdbinit"
--'  1  25  ~/.gdbinit
-|4,39,1,25,1508045435,"~/.gdbinit"
--'  1  25  ~/.gdbinit
-|4,39,1,25,1508045435,"~/.gdbinit"
--'  1  25  ~/.gdbinit
-|4,39,1,25,1508045435,"~/.gdbinit"
--'  1  25  ~/.gdbinit
-|4,39,1,25,1508045435,"~/.gdbinit"
--'  1  25  ~/.gdbinit
-|4,39,1,25,1508045435,"~/.gdbinit"
--'  1  25  ~/.gdbinit
-|4,39,1,25,1508045435,"~/.gdbinit"
--'  1  25  ~/.gdbinit
-|4,39,1,25,1508045435,"~/.gdbinit"
--'  1  25  ~/.gdbinit
-|4,39,1,25,1508045435,"~/.gdbinit"
--'  1  25  ~/.gdbinit
-|4,39,1,25,1508045435,"~/.gdbinit"
--'  1  25  ~/.gdbinit
-|4,39,1,25,1508045435,"~/.gdbinit"
--'  1  25  ~/.gdbinit
-|4,39,1,25,1508045435,"~/.gdbinit"
--'  1  25  ~/.gdbinit
-|4,39,1,25,1508045435,"~/.gdbinit"
--'  1  25  ~/.gdbinit
-|4,39,1,25,1508045435,"~/.gdbinit"
--'  1  25  ~/.gdbinit
-|4,39,1,25,1508045435,"~/.gdbinit"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
--'  18  0  ~/main.cpp
-|4,39,18,0,1508020881,"~/main.cpp"
+-'  8  0  ~/.vim/README.md
+|4,39,8,0,1508116043,"~/.vim/README.md"
+-'  8  0  ~/.vim/README.md
+|4,39,8,0,1508116043,"~/.vim/README.md"
+-'  8  0  ~/.vim/README.md
+|4,39,8,0,1508116043,"~/.vim/README.md"
+-'  8  0  ~/.vim/README.md
+|4,39,8,0,1508116043,"~/.vim/README.md"
+-'  1  0  ~/.vim/README.md
+|4,39,1,0,1508116019,"~/.vim/README.md"
+-'  1  0  ~/.vim/README.md
+|4,39,1,0,1508116019,"~/.vim/README.md"
+-'  1  0  ~/.vim/README.md
+|4,39,1,0,1508116019,"~/.vim/README.md"
+-'  1  0  ~/.vim/README.md
+|4,39,1,0,1508116019,"~/.vim/README.md"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
+-'  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
+|4,39,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
 
 # History of marks within files (newest to oldest):
+
+> ~/.vim/README.md
+	*	1508116020	0
+	"	8	0
+	^	18	23
+	.	18	23
+	+	14	24
+	+	25	0
+	+	3	35
+	+	20	10
+	+	22	90
+	+	22	91
+	+	20	1
+	+	1	1
+	+	17	66
+	+	18	20
+	+	17	22
+	+	18	23
+
+> ~/Dropbox/work/2015-02-13-React/.gitignore
+	*	1508115407	0
+	"	1	0
+
+> ~/Dropbox/work/q-e/PW/src/electrons.f90
+	*	1508108020	0
+	"	5	0
+
+> ~/Dropbox/work/q-e/NERD_tree_2
+	*	1508107857	0
+	"	157	6
+	.	1	0
+	+	1	0
+
+> ~/Dropbox/work/q-e/PW/src/a2f.mod
+	*	1508107853	0
+	"	1	0
+
+> ~/Dropbox/work/q-e/PW/src/exx.f90
+	*	1508107835	0
+	"	54	0
+	.	5	0
+	+	5	0
+
+> ~/Dropbox/work/q-e/NERD_tree_1
+	*	1508107785	0
+	"	176	6
+	.	1	0
+	+	1	0
+
+> ~/NERD_tree_2
+	*	1508107709	0
+	"	7	0
+	.	1	0
+	+	1	0
+
+> ~/NERD_tree_1
+	*	1508107702	0
+	"	176	7
+	.	1	0
+	+	1	0
+
+> ~/.vimrc
+	*	1508107661	0
+	"	60	12
+	^	60	13
+	.	61	0
+	+	60	12
+	+	59	28
+	+	61	0
+	+	60	0
+	+	61	0
 
 > ~/Dropbox/work/q-e/.git/COMMIT_EDITMSG
 	*	1508089040	0
@@ -532,12 +623,6 @@ $8,
 	+	4	0
 	+	5	0
 	+	17	2
-
-> ~/NERD_tree_2
-	*	1508011675	0
-	"	42	9
-	.	1	0
-	+	1	0
 
 > ~/Dropbox/work/animus/tsj-web-app/src/routes/Login/components/Login.js
 	*	1508011669	0
@@ -1393,61 +1478,3 @@ $8,
 
 > ~/work/animus/tsj-core/.git/COMMIT_EDITMSG
 	"	1	0
-
-> ~/work/animus/mamu/config.xml
-	*	1506438967	0
-	"	19	30
-
-> ~/Downloads/animusargentina-mamuschka-android-69a873e6b6b8 2/platforms/android/project.properties
-	*	1506389312	0
-	"	1	0
-
-> ~/Downloads/animusargentina-mamuschka-android-69a873e6b6b8 2/platforms/android/settings.gradle
-	*	1506389310	0
-	"	1	0
-
-> ~/Downloads/animusargentina-mamuschka-android-69a873e6b6b8 2/platforms/android/build.gradle
-	*	1506389308	0
-	"	1	0
-
-> ~/Downloads/animusargentina-mamuschka-android-69a873e6b6b8 2/platforms/android/package.json
-	*	1506389305	0
-	"	4	0
-
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/LAB6/PROB2/si.scf.in
-	"	5	17
-	^	25	11
-	.	5	17
-	+	11	8
-	+	10	9
-	+	26	22
-	+	33	19
-	+	35	0
-	+	33	3
-	+	33	3
-	+	33	12
-	+	11	8
-	+	34	4
-	+	2	21
-	+	26	10
-	+	37	6
-	+	23	0
-	+	25	5
-	+	26	9
-	+	25	10
-	+	5	17
-
-> ~/work/animus/mamu/www/NERD_tree_1
-	"	20	3
-	.	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-	+	1	0
-
-> ~/work/animus/mamu/www/scripts-es6/controllers/order-steps/step-six.js
-	"	26	0
-
-> ~/work/animus/tsj-web-app/src/routes/Establishments/List/index.js
-	*	1506092518	0
-	"	20	0
