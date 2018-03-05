@@ -11,7 +11,7 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/elec
+~Msle0~/\<c\>
 
 # Last Substitute Search Pattern:
 ~MSle0&12,
@@ -20,188 +20,130 @@
 $8,
 
 # Command Line History (newest to oldest):
-:q
-|2,0,1508116516,,"q"
-:w
-|2,0,1508112100,,"w"
-:NERDTree .
-|2,0,1508108060,,"NERDTree ."
-:e ~/Dropbox/work/q-e/
-|2,0,1508116131,,"e ~/Dropbox/work/q-e/"
-:e main.cpp
-|2,0,1508116439,,"e main.cpp"
-:e
-|2,0,1508116432,,"e"
 :wq
-|2,0,1508115281,,"wq"
-:NERDTree
-|2,0,1508107798,,"NERDTree"
-:e Dropbox/work/q-e/
-|2,0,1508107680,,"e Dropbox/work/q-e/"
-:noh
-|2,0,1508107659,,"noh"
-:nho
-|2,0,1508107655,,"nho"
-:e ~/.vimrc
-|2,0,1508107623,,"e ~/.vimrc"
-:color dracula
-|2,0,1508107511,,"color dracula"
-:!g++ main.cpp
-|2,0,1508020854,,"!g++ main.cpp"
-:YcmDebugInfo
-|2,0,1508020794,,"YcmDebugInfo"
-:YcmRestartServer
-|2,0,1508020740,,"YcmRestartServer"
-:YcmShowDetailedDiagnostic
-|2,0,1508020735,,"YcmShowDetailedDiagnostic"
-:q!
-|2,0,1508020722,,"q!"
-:NERDTree ~/Dropbox/work/animus/tsj-web-app/
-|2,0,1508004661,,"NERDTree ~/Dropbox/work/animus/tsj-web-app/"
-:e m
-|2,0,1508020415,,"e m"
-:hide
-|2,0,0,,"hide"
-:Ne
-|2,0,0,,"Ne"
-:tab
-|2,0,0,,"tab"
-:Ta
-|2,0,0,,"Ta"
-:nohg
-|2,0,0,,"nohg"
-:tabclose
-|2,0,0,,"tabclose"
-:buffers
-|2,0,0,,"buffers"
-:c
-|2,0,0,,"c"
-:NERDTree ~/Dropbox/work/2015-02-13-React/
-|2,0,0,,"NERDTree ~/Dropbox/work/2015-02-13-React/"
-:NERDTreeFind main.js
-|2,0,0,,"NERDTreeFind main.js"
-:NERDTreeFind
-|2,0,0,,"NERDTreeFind"
-:help NERDTree
-|2,0,0,,"help NERDTree"
-:helptags ~/.vim/bundle/nerdtree/doc/
-|2,0,0,,"helptags ~/.vim/bundle/nerdtree/doc/"
-::helptags ~/.vim/bundle/nerdtree/doc/NERD_tree.txt :
-|2,0,0,,":helptags ~/.vim/bundle/nerdtree/doc/NERD_tree.txt :"
-::helptags ~/.vim/bundle/nerdtree/doc/NERD_tree.txt ~/.vim/bundle/nerdtree/doc/tags
-|2,0,0,,":helptags ~/.vim/bundle/nerdtree/doc/NERD_tree.txt ~/.vim/bundle/nerdtree/doc/tags"
-::helptags ~/.vim/bundle/nerdtree/doc/
-|2,0,0,,":helptags ~/.vim/bundle/nerdtree/doc/"
-:'<,'>:helptags ~/.vim/bundle/nerdtree/doc/
-|2,0,0,,"'<,'>:helptags ~/.vim/bundle/nerdtree/doc/"
-:nerd
-|2,0,0,,"nerd"
-:s
-|2,0,0,,"s"
-:%s/12,/8,
-|2,0,0,,"%s/12,/8,"
-:"
-|2,0,0,,"\""
-:x
-|2,0,0,,"x"
+|2,0,1520244773,,"wq"
+:w
+|2,0,1520244771,,"w"
+:q
+|2,0,1520244753,,"q"
 :W
-|2,0,0,,"W"
-:e .
-|2,0,0,,"e ."
-:e 
-|2,0,0,,"e "
-:Wq
-|2,0,0,,"Wq"
-:i
-|2,0,0,,"i"
-:e surface.scf.in
-|2,0,0,,"e surface.scf.in"
-:e surface.scf.out
-|2,0,0,,"e surface.scf.out"
-:syntax on
-|2,0,0,,"syntax on"
+|2,0,1520239143,,"W"
+:qa!
+|2,0,1520235420,,"qa!"
+:s
+|2,0,1520076331,,"s"
+:q!
+|2,0,1519661901,,"q!"
+:c
+|2,0,1519119402,,"c"
+:sw
+|2,0,1518909272,,"sw"
+:sp
+|2,0,1518909266,,"sp"
+:tabe
+|2,0,1518909107,,"tabe"
+:tabe /Applications/MacVim.app/Contents/Resources/vim/gvimrc
+|2,0,1518909102,,"tabe /Applications/MacVim.app/Contents/Resources/vim/gvimrc"
+:help macvim
+|2,0,1518909062,,"help macvim"
+:CommandT
+|2,0,1518909056,,"CommandT"
+:C
+|2,0,1518909054,,"C"
+:CommandTHelp
+|2,0,1518908924,,"CommandTHelp"
+:help command-t
+|2,0,1518908915,,"help command-t"
+:Co
+|2,0,1518908885,,"Co"
+:help :command-t
+|2,0,1518908828,,"help :command-t"
+:NERDTree
+|2,0,1518908642,,"NERDTree"
+:gT
+|2,0,1518908506,,"gT"
+:GT
+|2,0,1518908502,,"GT"
+:gt
+|2,0,1518908499,,"gt"
+:b
+|2,0,1518905319,,"b"
+:NERDTree 
+|2,0,1518904979,,"NERDTree "
+:bp
+|2,0,1517823041,,"bp"
+:e Code/chiara-backend/
+|2,0,1517821832,,"e Code/chiara-backend/"
+:e ~/Code/PhD\ Antwerpen/julia.jl
+|2,0,1517821738,,"e ~/Code/PhD\\ Antwerpen/julia.jl"
+:.,.+1!
+|2,0,1516597697,,".,.+1!"
+:NavLink
+|2,0,1515081675,,"NavLink"
+:e ~/WORK/
+|2,0,1515081302,,"e ~/WORK/"
 
 # Search String History (newest to oldest):
-?/spli
-|2,1,1508114337,47,"spli"
-?/cont
-|2,1,1508111412,47,"cont"
-?/exx
-|2,1,1508116142,47,"exx"
-?/PW
-|2,1,1508116136,47,"PW"
-?/http
-|2,1,1508115213,47,"http"
-?/htto
-|2,1,1508115211,47,"htto"
-?/nels
-|2,1,1508115062,47,"nels"
-?/elec
-|2,1,1508107857,47,"elec"
-?/ele
-|2,1,1508107850,47,"ele"
-?/color
-|2,1,1508107629,47,"color"
-?/resetP
-|2,1,1508004971,47,"resetP"
-?/reset
-|2,1,1508004963,47,"reset"
-?/res
-|2,1,1508004956,47,"res"
-?/onC
-|2,1,1508004936,47,"onC"
-?/Fla
-|2,1,1508004926,47,"Fla"
-?/pa
-|2,1,1508004901,47,"pa"
-?/pass
-|2,1,1508004898,47,"pass"
-?/[as
-|2,1,1508004894,47,"[as"
-?/pu
-|2,1,1508004876,47,"pu"
-?/olvi
-|2,1,1508004796,47,"olvi"
-?/R
-|2,1,1508004673,47,"R"
-?/:q
-|2,1,0,47,":q"
-?/2-pro
-|2,1,0,47,"2-pro"
-?/2-po
-|2,1,0,47,"2-po"
-?/2-prp	
-|2,1,0,47,"2-prp	"
-?/note
-|2,1,0,47,"note"
-?/node
-|2,1,0,47,"node"
-?/index
-|2,1,0,47,"index"
-? 12,
-|2,1,0,,"12,"
-?/i`
-|2,1,0,47,"i`"
-?/tota
-|2,1,0,47,"tota"
-?/ooooo
-|2,1,0,47,"ooooo"
-?/celldm(3
-|2,1,0,47,"celldm(3"
-?/celldm(3)
-|2,1,0,47,"celldm(3)"
-?/AVG
-|2,1,0,47,"AVG"
-?/AVG_COMMAND 
-|2,1,0,47,"AVG_COMMAND "
-? \<echo\>
-|2,1,0,,"\\<echo\\>"
-? \<E_H2\>
-|2,1,0,,"\\<E_H2\\>"
-? \<Si\>
-|2,1,0,,"\\<Si\\>"
-?/.dylib/
-|2,1,0,47,".dylib/"
+? \<c\>
+|2,1,1520244730,,"\\<c\\>"
+? \<11\>
+|2,1,1520076342,,"\\<11\\>"
+? \<a\>
+|2,1,1520076321,,"\\<a\\>"
+?/NameAut
+|2,1,1518907190,47,"NameAut"
+?/SelectNam
+|2,1,1518907105,47,"SelectNam"
+?/Mode
+|2,1,1518907082,47,"Mode"
+?/Pure
+|2,1,1518905124,47,"Pure"
+?/Puere
+|2,1,1518905121,47,"Puere"
+?/Upoad
+|2,1,1518904993,47,"Upoad"
+?/state
+|2,1,1518904915,47,"state"
+?/total
+|2,1,1517823350,47,"total"
+?/total_amount
+|2,1,1517823339,47,"total_amount"
+?/Tootal
+|2,1,1517823283,47,"Tootal"
+?/track
+|2,1,1517823064,47,"track"
+?/:bp
+|2,1,1517823032,47,":bp"
+?/trac
+|2,1,1517823005,47,"trac"
+?/tracki
+|2,1,1517822999,47,"tracki"
+?/model
+|2,1,1517822049,47,"model"
+?/data
+|2,1,1517821937,47,"data"
+?/details
+|2,1,1517821880,47,"details"
+?/.env.local
+|2,1,1517388264,47,".env.local"
+?/adding custom env
+|2,1,1517387177,47,"adding custom env"
+?/.env
+|2,1,1517387167,47,".env"
+?/promo
+|2,1,1516147014,47,"promo"
+?/cupon
+|2,1,1516147003,47,"cupon"
+?/cordova
+|2,1,1515876109,47,"cordova"
+?/scri
+|2,1,1515684016,47,"scri"
+?/:
+|2,1,1515557819,47,":"
+?/NavL
+|2,1,1515081678,47,"NavL"
+?/wor
+|2,1,1515081580,47,"wor"
 
 # Expression History (newest to oldest):
 
@@ -211,965 +153,411 @@ $8,
 
 # Registers:
 "0	LINE	0
-	      ServerActionCreators.deletedContact(contact);
-|3,0,0,1,1,0,1508111889,"      ServerActionCreators.deletedContact(contact);"
-"1	CHAR	0
-	 deleteContact(contact) {
-	    AppDispatcher.handleServerAction({
-	      type: ActionTypes.CONTACT_DELETED,
-	      deletedContact: contact
-	    });
-	  }
-	
-|3,0,1,0,7,0,1508113384," deleteContact(contact) {","    AppDispatcher.handleServerAction({","      type: ActionTypes.CONTACT_DELETED,","      deletedContact: contact","    });","  }",""
+	[submodule "bundle/vim-airline"]
+		path = bundle/vim-airline
+		url = https://github.com/vim-airline/vim-airline.git
+|3,0,0,1,3,0,1520244705,"[submodule \"bundle/vim-airline\"]","	path = bundle/vim-airline","	url = https://github.com/vim-airline/vim-airline.git"
+"1	LINE	0
+		url = https://github.com/wincent/command-t.git
+|3,0,1,1,1,0,1520238924,"	url = https://github.com/wincent/command-t.git"
 "2	CHAR	0
-	deleteContant
-|3,0,2,0,1,0,1508112178,"deleteContant"
+	command-t"]
+		path
+|3,0,2,0,2,0,1520238894,"command-t\"]","	path"
 "3	LINE	0
-	              ServerActionCreators.deletedContact(contact);
-	    })
-|3,0,3,1,2,0,1508111936,"              ServerActionCreators.deletedContact(contact);","    })"
+	
+|3,0,3,1,1,0,1520076386,""
 "4	LINE	0
-	    
-	    
-|3,0,4,1,2,0,1508111906,"    ","    "
+	11
+	11
+	1
+	1
+	11
+	hello there
+	1
+	1
+	L1
+	1
+	
+	
+	1
+	1
+	1
+	b
+|3,0,4,1,16,0,1520076345,"11","11","1","1","11","hello there","1","1","L1","1","","","1","1","1","b"
 "5	LINE	0
+	11
+	1
+	1
+	1
+	1
+	1
 	
+	1
+	hello there
+	11
+	11
+	11
+|3,0,5,1,12,0,1520076342,"11","1","1","1","1","1","","1","hello there","11","11","11"
+"6	CHAR	0
+	s
 	    }
-|3,0,5,1,2,0,1508001481,"","    }"
-"6	LINE	0
-	
-	    
-	      return (<element2/>);
-|3,0,6,1,3,0,1508001478,"","    ","      return (<element2/>);"
+|3,0,6,0,2,0,1518905226,"s","    }"
 "7	LINE	0
-	   </ul>
-	  </div>
-	)
-	
-	var App = Reac.createClass({
-|3,0,7,1,5,0,1508001474,"   </ul>","  </div>",")","","var App = Reac.createClass({"
+	dump.rdb
+	.idea/airfocus.iml
+	.idea/misc.xml
+	.idea/modules.xml
+	.idea/vcs.xml
+	.idea/watcherTasks.xml
+	.idea/workspace.xml
+	.idea/inspectionProfiles/Project_Default.xml
+	app.js
+	app.js.map
+|3,0,7,1,10,0,1517421619,"dump.rdb",".idea/airfocus.iml",".idea/misc.xml",".idea/modules.xml",".idea/vcs.xml",".idea/watcherTasks.xml",".idea/workspace.xml",".idea/inspectionProfiles/Project_Default.xml","app.js","app.js.map"
 "8	LINE	0
-	var element2 = ( <div>
-	    <h1>Hello from JSX </h1>
-	    <ul>
-	      <li> Mark with K </li>
-	      <li> Mark with C </li>
-|3,0,8,1,5,0,1508001471,"var element2 = ( <div>","    <h1>Hello from JSX </h1>","    <ul>","      <li> Mark with K </li>","      <li> Mark with C </li>"
+	                        user:"[user del servidor mongodb]",
+	
+	                        password:"[password del servidor mongodb]",
+	
+	                        port:"[puerto del servidor mongodb (default: 27017)]",
+|3,0,8,1,5,0,1515587919,"                        user:\"[user del servidor mongodb]\",","","                        password:\"[password del servidor mongodb]\",","","                        port:\"[puerto del servidor mongodb (default: 27017)]\","
 "9	LINE	0
-	                  li({},"Mark with K"),
-	                  li({},"Marc with C")
-	                )
-	              );
-|3,0,9,1,4,0,1508001469,"                  li({},\"Mark with K\"),","                  li({},\"Marc with C\")","                )","              );"
+	
+	                        dbName:"[base de datos mongodb]"
+|3,0,9,1,2,0,1515587917,"","                        dbName:\"[base de datos mongodb]\""
+"w	CHAR	0
+		;W
+|3,0,32,0,1,0,1510598423,"	;W"
 ""-	CHAR	0
-	 
-|3,1,36,0,1,0,1508116456," "
+	t
+|3,1,36,0,1,0,1520244770,"t"
 
 # File marks:
-'0  19  16  ~/Dropbox/work/2015-02-13-React/NERD_tree_2
-|4,48,19,16,1508116516,"~/Dropbox/work/2015-02-13-React/NERD_tree_2"
-'1  390  4  ~/Dropbox/work/q-e/PW/src/exx.f90
-|4,49,390,4,1508116511,"~/Dropbox/work/q-e/PW/src/exx.f90"
-'2  18  2  ~/main.cpp
-|4,50,18,2,1508116508,"~/main.cpp"
-'3  8  0  ~/.vim/README.md
-|4,51,8,0,1508116043,"~/.vim/README.md"
-'4  1  0  ~/Dropbox/work/2015-02-13-React/.gitignore
-|4,52,1,0,1508115408,"~/Dropbox/work/2015-02-13-React/.gitignore"
-'5  18  22  ~/.vim/README.md
-|4,53,18,22,1508115281,"~/.vim/README.md"
-'6  18  22  ~/.vim/README.md
-|4,54,18,22,1508115281,"~/.vim/README.md"
-'7  5  0  ~/Dropbox/work/q-e/PW/src/electrons.f90
-|4,55,5,0,1508108020,"~/Dropbox/work/q-e/PW/src/electrons.f90"
-'8  38  24  ~/Dropbox/work/q-e/PW/src/exx.f90
-|4,56,38,24,1508107712,"~/Dropbox/work/q-e/PW/src/exx.f90"
-'9  38  24  ~/Dropbox/work/q-e/PW/src/exx.f90
-|4,57,38,24,1508107712,"~/Dropbox/work/q-e/PW/src/exx.f90"
+'0  23  20  ~/.vim/.gitmodules
+|4,48,23,20,1520244773,"~/.vim/.gitmodules"
+'1  14  0  ~/.vim/.gitmodules
+|4,49,14,0,1520244753,"~/.vim/.gitmodules"
+'2  14  0  ~/.vim/.gitmodules
+|4,50,14,0,1520244753,"~/.vim/.gitmodules"
+'3  24  42  ~/.vim/.gitmodules
+|4,51,24,42,1520244742,"~/.vim/.gitmodules"
+'4  24  42  ~/.vim/.gitmodules
+|4,52,24,42,1520244742,"~/.vim/.gitmodules"
+'5  24  42  ~/.vim/.gitmodules
+|4,53,24,42,1520244742,"~/.vim/.gitmodules"
+'6  24  42  ~/.vim/.gitmodules
+|4,54,24,42,1520244742,"~/.vim/.gitmodules"
+'7  21  52  ~/.vim/.gitmodules
+|4,55,21,52,1520244646,"~/.vim/.gitmodules"
+'8  21  52  ~/.vim/.gitmodules
+|4,56,21,52,1520244646,"~/.vim/.gitmodules"
+'9  21  52  ~/.vim/.gitmodules
+|4,57,21,52,1520244646,"~/.vim/.gitmodules"
 
 # Jumplist (newest first):
--'  19  16  ~/Dropbox/work/2015-02-13-React/NERD_tree_2
-|4,39,19,16,1508116516,"~/Dropbox/work/2015-02-13-React/NERD_tree_2"
--'  19  16  ~/Dropbox/work/2015-02-13-React/NERD_tree_2
-|4,39,19,16,1508116516,"~/Dropbox/work/2015-02-13-React/NERD_tree_2"
--'  390  4  ~/Dropbox/work/q-e/PW/src/exx.f90
-|4,39,390,4,1508116511,"~/Dropbox/work/q-e/PW/src/exx.f90"
--'  390  4  ~/Dropbox/work/q-e/PW/src/exx.f90
-|4,39,390,4,1508116511,"~/Dropbox/work/q-e/PW/src/exx.f90"
--'  390  4  ~/Dropbox/work/q-e/PW/src/exx.f90
-|4,39,390,4,1508116511,"~/Dropbox/work/q-e/PW/src/exx.f90"
--'  390  4  ~/Dropbox/work/q-e/PW/src/exx.f90
-|4,39,390,4,1508116511,"~/Dropbox/work/q-e/PW/src/exx.f90"
--'  18  2  ~/main.cpp
-|4,39,18,2,1508116508,"~/main.cpp"
--'  18  2  ~/main.cpp
-|4,39,18,2,1508116508,"~/main.cpp"
--'  18  2  ~/main.cpp
-|4,39,18,2,1508116508,"~/main.cpp"
--'  18  2  ~/main.cpp
-|4,39,18,2,1508116508,"~/main.cpp"
--'  18  2  ~/main.cpp
-|4,39,18,2,1508116508,"~/main.cpp"
--'  18  2  ~/main.cpp
-|4,39,18,2,1508116508,"~/main.cpp"
--'  18  2  ~/main.cpp
-|4,39,18,2,1508116508,"~/main.cpp"
--'  18  2  ~/main.cpp
-|4,39,18,2,1508116508,"~/main.cpp"
--'  1  0  ~/main.cpp
-|4,39,1,0,1508116439,"~/main.cpp"
--'  1  0  ~/main.cpp
-|4,39,1,0,1508116439,"~/main.cpp"
--'  1  0  ~/main.cpp
-|4,39,1,0,1508116439,"~/main.cpp"
--'  1  0  ~/main.cpp
-|4,39,1,0,1508116439,"~/main.cpp"
--'  1  0  ~/main.cpp
-|4,39,1,0,1508116439,"~/main.cpp"
--'  1  0  ~/main.cpp
-|4,39,1,0,1508116439,"~/main.cpp"
--'  1  0  ~/main.cpp
-|4,39,1,0,1508116439,"~/main.cpp"
--'  1  0  ~/main.cpp
-|4,39,1,0,1508116439,"~/main.cpp"
--'  176  6  ~/NERD_tree_1
-|4,39,176,6,1508116143,"~/NERD_tree_1"
--'  176  6  ~/NERD_tree_1
-|4,39,176,6,1508116143,"~/NERD_tree_1"
--'  176  6  ~/NERD_tree_1
-|4,39,176,6,1508116143,"~/NERD_tree_1"
--'  176  6  ~/NERD_tree_1
-|4,39,176,6,1508116143,"~/NERD_tree_1"
--'  33  4  ~/NERD_tree_1
-|4,39,33,4,1508116142,"~/NERD_tree_1"
--'  33  4  ~/NERD_tree_1
-|4,39,33,4,1508116142,"~/NERD_tree_1"
--'  33  4  ~/NERD_tree_1
-|4,39,33,4,1508116142,"~/NERD_tree_1"
--'  33  4  ~/NERD_tree_1
-|4,39,33,4,1508116142,"~/NERD_tree_1"
--'  597  2  ~/NERD_tree_1
-|4,39,597,2,1508116140,"~/NERD_tree_1"
--'  1  5  ~/NERD_tree_1
-|4,39,1,5,1508116140,"~/NERD_tree_1"
--'  597  2  ~/NERD_tree_1
-|4,39,597,2,1508116140,"~/NERD_tree_1"
--'  1  5  ~/NERD_tree_1
-|4,39,1,5,1508116140,"~/NERD_tree_1"
--'  597  2  ~/NERD_tree_1
-|4,39,597,2,1508116140,"~/NERD_tree_1"
--'  1  5  ~/NERD_tree_1
-|4,39,1,5,1508116140,"~/NERD_tree_1"
--'  597  2  ~/NERD_tree_1
-|4,39,597,2,1508116140,"~/NERD_tree_1"
--'  1  5  ~/NERD_tree_1
-|4,39,1,5,1508116140,"~/NERD_tree_1"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
--'  8  0  ~/.vim/README.md
-|4,39,8,0,1508116043,"~/.vim/README.md"
+-'  23  20  ~/.vim/.gitmodules
+|4,39,23,20,1520244773,"~/.vim/.gitmodules"
+-'  1  0  ~/.vim/.gitmodules
+|4,39,1,0,1520244762,"~/.vim/.gitmodules"
+-'  14  0  ~/.vim/.gitmodules
+|4,39,14,0,1520244753,"~/.vim/.gitmodules"
+-'  14  0  ~/.vim/.gitmodules
+|4,39,14,0,1520244753,"~/.vim/.gitmodules"
+-'  1  0  ~/.vim/.gitmodules
+|4,39,1,0,1520244749,"~/.vim/.gitmodules"
+-'  24  42  ~/.vim/.gitmodules
+|4,39,24,42,1520244742,"~/.vim/.gitmodules"
+-'  24  42  ~/.vim/.gitmodules
+|4,39,24,42,1520244742,"~/.vim/.gitmodules"
+-'  24  42  ~/.vim/.gitmodules
+|4,39,24,42,1520244742,"~/.vim/.gitmodules"
+-'  1  0  ~/.vim/.gitmodules
+|4,39,1,0,1520244698,"~/.vim/.gitmodules"
+-'  21  52  ~/.vim/.gitmodules
+|4,39,21,52,1520244646,"~/.vim/.gitmodules"
+-'  21  52  ~/.vim/.gitmodules
+|4,39,21,52,1520244646,"~/.vim/.gitmodules"
+-'  21  52  ~/.vim/.gitmodules
+|4,39,21,52,1520244646,"~/.vim/.gitmodules"
+-'  21  52  ~/.vim/.gitmodules
+|4,39,21,52,1520244646,"~/.vim/.gitmodules"
+-'  1  0  ~/.vim/.gitmodules
+|4,39,1,0,1520244038,"~/.vim/.gitmodules"
+-'  16  32  ~/.vim/.gitmodules
+|4,39,16,32,1520239145,"~/.vim/.gitmodules"
+-'  16  32  ~/.vim/.gitmodules
+|4,39,16,32,1520239145,"~/.vim/.gitmodules"
+-'  16  32  ~/.vim/.gitmodules
+|4,39,16,32,1520239145,"~/.vim/.gitmodules"
+-'  16  32  ~/.vim/.gitmodules
+|4,39,16,32,1520239145,"~/.vim/.gitmodules"
+-'  16  32  ~/.vim/.gitmodules
+|4,39,16,32,1520239145,"~/.vim/.gitmodules"
+-'  17  63  ~/.vim/.gitmodules
+|4,39,17,63,1520239129,"~/.vim/.gitmodules"
+-'  17  63  ~/.vim/.gitmodules
+|4,39,17,63,1520239129,"~/.vim/.gitmodules"
+-'  17  63  ~/.vim/.gitmodules
+|4,39,17,63,1520239129,"~/.vim/.gitmodules"
+-'  17  63  ~/.vim/.gitmodules
+|4,39,17,63,1520239129,"~/.vim/.gitmodules"
+-'  17  63  ~/.vim/.gitmodules
+|4,39,17,63,1520239129,"~/.vim/.gitmodules"
+-'  1  0  ~/.vim/.gitmodules
+|4,39,1,0,1520239060,"~/.vim/.gitmodules"
+-'  15  44  ~/.vim/.gitmodules
+|4,39,15,44,1520238978,"~/.vim/.gitmodules"
+-'  15  44  ~/.vim/.gitmodules
+|4,39,15,44,1520238978,"~/.vim/.gitmodules"
+-'  15  44  ~/.vim/.gitmodules
+|4,39,15,44,1520238978,"~/.vim/.gitmodules"
+-'  15  44  ~/.vim/.gitmodules
+|4,39,15,44,1520238978,"~/.vim/.gitmodules"
+-'  15  44  ~/.vim/.gitmodules
+|4,39,15,44,1520238978,"~/.vim/.gitmodules"
+-'  15  44  ~/.vim/.gitmodules
+|4,39,15,44,1520238978,"~/.vim/.gitmodules"
+-'  13  56  ~/.vim/.gitmodules
+|4,39,13,56,1520238897,"~/.vim/.gitmodules"
+-'  13  56  ~/.vim/.gitmodules
+|4,39,13,56,1520238897,"~/.vim/.gitmodules"
+-'  13  56  ~/.vim/.gitmodules
+|4,39,13,56,1520238897,"~/.vim/.gitmodules"
+-'  13  56  ~/.vim/.gitmodules
+|4,39,13,56,1520238897,"~/.vim/.gitmodules"
+-'  13  56  ~/.vim/.gitmodules
+|4,39,13,56,1520238897,"~/.vim/.gitmodules"
+-'  13  56  ~/.vim/.gitmodules
+|4,39,13,56,1520238897,"~/.vim/.gitmodules"
+-'  1  0  ~/.vim/.gitmodules
+|4,39,1,0,1520238881,"~/.vim/.gitmodules"
+-'  12  0  ~/.vim/.gitmodules
+|4,39,12,0,1520238841,"~/.vim/.gitmodules"
+-'  12  0  ~/.vim/.gitmodules
+|4,39,12,0,1520238841,"~/.vim/.gitmodules"
+-'  12  0  ~/.vim/.gitmodules
+|4,39,12,0,1520238841,"~/.vim/.gitmodules"
+-'  12  0  ~/.vim/.gitmodules
+|4,39,12,0,1520238841,"~/.vim/.gitmodules"
+-'  12  0  ~/.vim/.gitmodules
+|4,39,12,0,1520238841,"~/.vim/.gitmodules"
+-'  12  0  ~/.vim/.gitmodules
+|4,39,12,0,1520238841,"~/.vim/.gitmodules"
+-'  12  0  ~/.vim/.gitmodules
+|4,39,12,0,1520238841,"~/.vim/.gitmodules"
+-'  1  0  ~/.vim/.gitmodules
+|4,39,1,0,1520238827,"~/.vim/.gitmodules"
+-'  1  0  ~/.vim/.gitmodules
+|4,39,1,0,1520238827,"~/.vim/.gitmodules"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
+-'  1  0  ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+|4,39,1,0,1520235420,"~/Code/quantum-espresso-dev/.git/MERGE_MSG"
 
 # History of marks within files (newest to oldest):
 
-> ~/Dropbox/work/2015-02-13-React/NERD_tree_2
-	*	1508116515	0
-	"	19	16
-	^	13	17
-	.	1	0
-	+	1	0
-
-> ~/Dropbox/work/2015-02-13-React/excercises/5-flux/app/stores/ContactsStore.js
-	*	1508116514	0
-	"	44	20
-	^	44	21
-	.	44	0
-	+	42	51
-	+	43	35
-	+	47	102
-	+	44	32
-	+	46	63
-	+	44	32
-	+	45	46
-	+	47	102
-	+	49	12
-	+	51	5
-	+	50	30
-	+	51	6
-	+	47	66
-	+	46	14
-	+	47	99
-	+	46	40
-	+	42	0
-	+	43	0
-	+	46	67
-	+	47	58
-	+	48	77
-	+	44	0
-
-> ~/Dropbox/work/q-e/PW/src/exx.f90
-	*	1508116511	0
-	"	390	4
-	.	5	0
-	+	5	0
-
-> ~/main.cpp
-	*	1508116497	0
-	"	18	2
-	^	18	2
-	.	17	7
-	+	13	0
-	+	13	6
-	+	9	1
-	+	13	0
-	+	25	2
-	+	14	9
-	+	16	28
-	+	16	30
-	+	25	5
-	+	26	2
-	+	28	0
-	+	26	0
-	+	27	0
-	+	26	1
-	+	17	7
-	+	4	0
-	+	5	0
-	+	19	2
-	+	16	27
-	+	17	8
-	+	10	10
-	+	11	29
-	+	16	28
-	+	17	3
-	+	17	7
-
-> ~/NERD_tree_1
-	*	1508116142	0
-	"	176	6
-	.	1	0
-	+	1	0
-
-> ~/.vim/README.md
-	*	1508116020	0
-	"	8	0
-	^	18	23
-	.	18	23
-	+	14	24
-	+	25	0
-	+	3	35
-	+	20	10
-	+	22	90
-	+	22	91
-	+	20	1
-	+	1	1
-	+	17	66
-	+	18	20
-	+	17	22
-	+	18	23
-
-> ~/Dropbox/work/2015-02-13-React/.gitignore
-	*	1508115407	0
-	"	1	0
-
-> ~/Dropbox/work/2015-02-13-React/excercises/5-flux/app/actions/ServerActionCreators.js
-	*	1508114478	0
-	"	13	6
-	^	16	3
-	.	17	0
-	+	11	27
-	+	11	37
-	+	11	39
-	+	11	6
-	+	11	39
-	+	11	7
-	+	11	29
-	+	11	1
-	+	19	0
-	+	17	0
-	+	11	8
-	+	17	0
-
-> ~/Dropbox/work/2015-02-13-React/excercises/5-flux/app/Constants.js
-	*	1508113461	0
-	"	11	4
-	^	11	24
-	.	11	23
-	+	11	3
-	+	11	17
-	+	10	23
-	+	11	23
-
-> ~/Dropbox/work/2015-02-13-React/excercises/5-flux/app/utils/ApiUtil.js
-	*	1508113457	0
-	"	15	1
-	^	15	13
-	.	15	12
-	+	11	19
-	+	16	50
-	+	18	6
-	+	19	0
-	+	16	52
-	+	17	26
-	+	17	41
-	+	11	22
-	+	17	50
-	+	18	6
-	+	16	0
-	+	13	24
-	+	16	7
-	+	13	23
-	+	16	2
-	+	16	3
-	+	16	0
-	+	14	0
-	+	16	3
-	+	14	7
-	+	16	0
-	+	14	0
-	+	17	0
-	+	14	8
-	+	14	0
-	+	14	5
-	+	15	6
-	+	16	5
-	+	18	5
-	+	15	12
-
-> ~/Dropbox/work/2015-02-13-React/excercises/5-flux/app/actions/ViewActionCreators.js
-	*	1508113412	0
-	"	16	24
-	^	16	30
-	.	16	29
-	+	12	25
-	+	13	17
-	+	13	38
-	+	14	37
-	+	15	7
-	+	16	29
-
-> ~/Dropbox/work/2015-02-13-React/excercises/5-flux/app/components/App.js
-	*	1508113372	0
-	"	25	4
-	^	25	46
-	.	25	45
-	+	29	70
-	+	23	26
-	+	24	2
-	+	26	3
-	+	29	83
-	+	29	101
-	+	24	24
-	+	29	93
-	+	25	36
-	+	25	45
-
-> ~/Dropbox/work/2015-02-13-React/excercises/5-flux/app/lib/xhr.js
-	*	1508111862	0
-	"	1	0
-
-> ~/Dropbox/work/2015-02-13-React/excercises/5-flux/app/AppDispatcher.js
-	*	1508111825	0
-	"	18	19
-
-> ~/Dropbox/work/2015-02-13-React/excercises/5-flux/app.js
-	*	1508109068	0
-	"	9	0
-
-> ~/Dropbox/work/2015-02-13-React/NERD_tree_1
-	*	1508108041	0
-	"	17	0
-	.	1	0
-	+	1	0
-
-> ~/Dropbox/work/q-e/PW/src/electrons.f90
-	*	1508108020	0
-	"	5	0
-
-> ~/Dropbox/work/q-e/NERD_tree_2
-	*	1508107857	0
-	"	157	6
-	.	1	0
-	+	1	0
-
-> ~/Dropbox/work/q-e/PW/src/a2f.mod
-	*	1508107853	0
-	"	1	0
-
-> ~/Dropbox/work/q-e/NERD_tree_1
-	*	1508107785	0
-	"	176	6
-	.	1	0
-	+	1	0
-
-> ~/NERD_tree_2
-	*	1508107709	0
-	"	7	0
-	.	1	0
-	+	1	0
-
-> ~/.vimrc
-	*	1508107661	0
-	"	60	12
-	^	60	13
-	.	61	0
-	+	60	12
-	+	59	28
-	+	61	0
-	+	60	0
-	+	61	0
-
-> ~/Dropbox/work/q-e/.git/COMMIT_EDITMSG
-	*	1508089040	0
-	"	4	0
-	^	4	0
-	.	4	0
-	+	4	0
-
-> /usr/local/bin/gdb
-	*	1508046135	0
-	"	1	0
-
-> ~/.gdbinit
-	*	1508045441	0
-	"	3	25
-	^	3	26
-	.	3	25
-	+	1	19
-	+	3	25
-
-> ~/Dropbox/work/animus/tsj-web-app/src/routes/Login/components/Login.js
-	*	1508011669	0
-	"	34	25
-	^	24	6
-	.	24	0
-	+	52	106
-	+	25	33
-	+	27	59
-	+	27	27
-	+	27	48
-	+	28	0
-	+	25	32
-	+	23	8
-	+	25	15
-	+	53	54
-	+	54	53
-	+	55	19
-	+	28	0
-	+	32	0
-	+	27	48
-	+	26	34
-	+	27	48
-	+	28	0
-	+	26	34
-	+	24	0
-	+	23	7
-	+	24	0
-
-> ~/Dropbox/work/animus/tsj-web-app/src/layouts/CoreLayout/CoreLayout.js
-	*	1508005033	0
-	"	14	0
-
-> ~/Dropbox/work/animus/tsj-web-app/src/routes/PasswordReset/index.js
-	*	1508004783	0
-	"	9	0
-	^	9	0
-	.	2	0
-	+	9	21
-	+	4	0
-	+	6	16
-	+	1	32
-	+	4	0
-	+	1	32
-	+	4	0
-	+	1	32
-	+	2	0
-
-> ~/.vim/bundle/YouCompleteMe/README.md
-	"	165	8
-	^	11	10
-	.	11	0
+> ~/.vim/.gitmodules
+	*	1520244771	0
+	"	23	20
+	^	24	43
+	.	23	20
+	+	13	19
+	+	13	25
+	+	14	22
+	+	14	23
 	+	11	0
-
-> ~/Dropbox/work/2015-02-13-React/excercises/2-props/app.js
-	*	1508004627	0
-	"	5	0
-	.	1	0
-	+	1	3
-	+	1	0
-
-> ~/Dropbox/work/2015-02-13-React/excercises/2-props/index.html
-	*	1508004595	0
-	"	4	0
-
-> ~/Dropbox/work/2015-02-13-React/excercises/1-your-first-component/notes.js
-	*	1508004587	0
-	"	25	18
-
-> ~/Dropbox/work/2015-02-13-React/node_modules/acorn-6to5/README.md
-	*	1508004567	0
-	"	13	0
-
-> ~/Dropbox/work/2015-02-13-React/excercises/1-your-first-component/app.js
-	*	1508002528	0
-	"	11	31
-	^	27	37
-	.	27	36
-	+	44	20
-	+	8	0
-	+	44	29
-	+	44	0
-	+	44	29
-	+	8	0
-	+	23	33
-	+	44	13
-	+	23	2
-	+	22	0
-	+	23	35
-	+	23	38
-	+	23	20
-	+	44	36
-	+	44	37
-	+	44	36
-	+	44	37
-	+	44	38
-	+	44	36
-	+	44	37
-	+	44	36
-	+	44	58
-	+	44	14
-	+	44	15
-	+	44	37
-	+	44	38
-	+	44	0
-	+	44	38
-	+	44	13
-	+	44	18
+	+	15	47
+	+	16	0
+	+	18	55
+	+	17	28
+	+	16	32
+	+	19	31
+	+	20	25
+	+	21	52
+	+	22	26
 	+	23	21
-	+	44	7
-	+	44	15
-	+	44	9
-	+	44	7
-	+	44	29
-	+	44	21
-	+	44	22
-	+	44	27
-	+	44	18
-	+	44	22
-	+	44	28
-	+	44	3
-	+	44	1
-	+	44	6
-	+	44	13
-	+	44	21
-	+	44	17
-	+	44	0
-	+	44	13
-	+	44	7
-	+	44	8
-	+	44	0
-	+	44	5
-	+	44	3
-	+	44	18
-	+	44	12
-	+	44	24
-	+	44	22
-	+	44	17
-	+	44	0
-	+	44	1
-	+	44	0
-	+	44	25
-	+	44	11
-	+	23	0
-	+	24	0
-	+	29	17
-	+	35	11
-	+	32	0
-	+	29	12
-	+	35	12
-	+	36	0
-	+	35	4
-	+	36	5
-	+	26	67
-	+	28	50
-	+	34	1
-	+	33	10
-	+	31	24
-	+	30	0
-	+	35	5
-	+	33	7
-	+	34	9
-	+	26	67
-	+	27	36
+	+	24	42
+	+	23	20
 
-> ~/.vim/bundle/nerdtree/doc/NERD_tree.txt
-	*	1507999991	0
-	"	127	0
-
-> ~/Dropbox/work/animus/animusargentina-mamuschka-android-eda0b4a876e4/platforms/android/assets/www/scripts/app.js
-	*	1507807925	0
-	"	36371	32
-
-> ~/Dropbox/work/animus/animusargentina-mamuschka-android-eda0b4a876e4/platforms/android/assets/www/scripts-es6/app.js
-	*	1507807890	0
+> ~/Code/quantum-espresso-dev/.git/MERGE_MSG
+	*	1520235411	0
 	"	1	0
 
-> ~/Dropbox/work/animus/animusargentina-mamuschka-android-eda0b4a876e4/platforms/android/assets/www/scripts-es6/controllers/order-steps/step-two.js
-	*	1507807885	0
-	"	50	0
+> ~/Downloads/animusargentina-bariloche-backend-e881fa7f16ea/app/routes/rest.js
+	*	1520128337	0
+	"	214	9
 
-> ~/Dropbox/work/animus/mamu/www/scripts-es6/controllers/order-steps/step-two.js
-	*	1507807833	0
-	"	23	0
+> ~/Code/GuiaAnimus/package.json
+	*	1520126380	0
+	"	12	41
+	^	12	42
+	.	12	41
+	+	12	41
 
-> ~/Dropbox/work/animus/mamu/webpack.config.js
-	*	1507807816	0
+> ~/Dropbox/PhD Antwerpen/calculations/plasmons/data.txt
+	*	1519663576	0
 	"	1	0
-
-> ~/Dropbox/work/animus/tsj-web-app/.git/COMMIT_EDITMSG
-	"	1	0
-
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB5/item_d/i_top/run_top.j
-	*	1507779460	0
-	"	59	0
-
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB5/item_d/ii_hollow/run_hollow.j
-	*	1507779448	0
-	"	86	15
-	^	86	15
-	.	86	14
-	+	90	7
-	+	86	14
-
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB5/item_d/iii_bridge/run_bridge.j
-	*	1507779431	0
-	"	86	15
-	^	86	15
-	.	86	14
-	+	90	6
-	+	67	0
-	+	65	24
-	+	86	14
-
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB5/item_d/iii_bridge/co_au.rx.in
-	*	1507779293	0
-	"	41	17
-	^	41	18
+	^	1	0
 	.	1	0
 	+	1	0
 
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB5/item_d/i_top/run_hollow.j
-	*	1507778835	0
-	"	7	27
-	^	7	28
-	.	7	27
-	+	90	4
-	+	85	13
-	+	86	13
-	+	85	36
-	+	86	35
-	+	6	27
-	+	7	27
-
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB5/item_d/iii_hollow/run_bridge.j
-	*	1507778619	0
-	"	74	0
-	^	74	0
-	.	65	11
-	+	65	23
-	+	89	16
-	+	88	0
-	+	90	6
-	+	65	11
-
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB1/run.j
-	*	1507778479	0
-	"	20	20
-	^	20	35
-	.	20	34
-	+	23	14
-	+	70	14
-	+	117	14
-	+	23	14
-	+	70	14
-	+	117	14
-	+	94	0
-	+	93	0
-	+	72	9
-	+	93	0
-	+	5	0
-	+	4	0
-	+	5	6
-	+	54	38
-	+	50	0
-	+	54	0
-	+	151	78
-	+	151	0
-	+	152	0
-	+	151	79
-	+	20	34
-
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB5/item_d/i_bridge/co_au.rx.in
-	*	1507778254	0
-	"	24	0
-	^	24	0
-	.	23	1
-	+	42	6
-	+	41	0
-	+	20	1
-	+	23	1
-
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB5/item_d/iii_hollow/co_au.rx.in
-	*	1507778210	0
-	"	35	4
-	^	35	4
-	.	40	3
-	+	40	3
-
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB5/item_d/i_top/co_au.rx.in
-	*	1507778147	0
-	"	38	0
-	^	40	6
-	.	40	3
-	+	40	3
-
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB5/item_e/3/dos.in
-	*	1507772901	0
-	"	7	0
-	^	7	0
-	.	1	0
-	+	1	0
-
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB4/co.scf.in
-	*	1507751900	0
-	"	33	0
-	^	33	0
-	.	32	48
-	+	3	18
-	+	17	9
-	+	31	0
-	+	5	16
-	+	3	17
-	+	15	12
-	+	16	12
-	+	32	48
-
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB5/item_e/3/pdos.gp
-	"	1	3
-	^	2	2
-	.	2	0
-	+	1	0
-	+	2	1
-	+	1	2
-	+	2	0
-
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB4/co.scf.out
-	"	2652	2949
-	^	2652	2950
-	.	2652	2949
-	+	1	41
-	+	2651	2969
-	+	2652	2949
-
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB4/co.rx.out
-	*	1507751796	0
-	"	633	0
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/4acd289f-e38c-4427-993a-d72cfd5cc4e7/home/jaggerr/CARVAJAL/phonons/work_func.j
-	*	1507751501	0
-	"	120	0
-	^	125	0
-	.	117	112
-	+	93	0
-	+	94	0
-	+	101	0
-	+	117	112
-
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB5/item_e/3/co_au.projwfc.in
-	"	6	8
-	^	6	9
-	.	6	8
-	+	1	7
-	+	8	0
-	+	1	4
-	+	3	1
-	+	4	1
-	+	5	1
-	+	7	1
-	+	4	6
-	+	6	8
-
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB5/item_e/3/co_au_scf.pdos_tot
-	"	65	0
-
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB5/item_e/3/run.j
+> ~/Dropbox/PhD Antwerpen/calculations/plasmons/data
+	*	1519663505	0
 	"	1	0
-	^	41	7
-	.	45	0
-	+	1	0
-	+	41	6
-	+	42	0
-	+	43	0
-	+	42	0
-	+	45	0
 
-> ~/.bash_profile
-	"	31	40
-	^	31	41
-	.	31	40
-	+	31	40
+> ~/Dropbox/PhD Antwerpen/calculations/plasmons/data_2d.dat
+	*	1519653201	0
+	"	420	0
 
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB5/item_e/3/co_au.phG.out
-	*	1507661126	0
-	"	1118	3
+> ~/Downloads/animusargentina-bariloche-backend-e881fa7f16ea/app/routes.js
+	*	1519502530	0
+	"	35	0
 
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/4acd289f-e38c-4427-993a-d72cfd5cc4e7/home/jaggerr/CARVAJAL/phonons/co_au_top.matdyn.out
-	*	1507661124	0
-	"	287	49
+> ~/Desktop/plottest.py
+	*	1519378925	0
+	"	3	22
+	^	3	23
+	.	3	22
+	+	2	5
+	+	3	22
 
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/4acd289f-e38c-4427-993a-d72cfd5cc4e7/home/jaggerr/CARVAJAL/hollow/au_co.hollow.rx.out
-	*	1507659306	0
-	"	155	0
+> ~/Code/TSJ/tsj-web-app/.git/COMMIT_EDITMSG
+	*	1519241271	0
+	"	1	0
 
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/4acd289f-e38c-4427-993a-d72cfd5cc4e7/home/jaggerr/CARVAJAL/hollow/run_hollow.j
-	*	1507659222	0
-	"	90	6
+> ~/Code/TSJ/tsj-web-app/.git/rebase-merge/git-rebase-todo
+	*	1519234821	0
+	"	1	38
+	^	1	39
+	.	1	38
+	+	1	38
 
-> ~/Desktop/run_phonons.j
-	*	1507641267	0
-	"	34	0
+> ~/Code/lemonswan-tinderbot/docker-compose.yml
+	*	1519125898	0
+	"	20	0
 
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/57fd8f93-46bd-453f-8162-c929265fe54b/home/jaggerr/CARVAJAL/phonons/run.j
-	*	1507553262	0
-	"	50	0
+> ~/Code/lemonswan-tinderbot/deployment/docker-compose.sh
+	*	1519125843	0
+	"	129	0
 
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB1/total.energy.dat
-	"	2	20
+> ~/Code/lemonswan-tinderbot/.git/COMMIT_EDITMSG
+	*	1519120588	0
+	"	1	0
+
+> /Applications/MacVim.app/Contents/Resources/vim/runtime/doc/gui_mac.txt
+	*	1518909346	0
+	"	180	0
 
 > ~/.zshrc
-	"	10	16
-	^	10	17
-	.	10	16
+	*	1518909345	0
+	"	309	0
+	^	204	7
+	.	204	7
 	+	10	18
-	+	119	65
+	+	118	65
 	+	54	16
 	+	66	0
 	+	67	0
@@ -1177,374 +565,604 @@ $8,
 	+	69	0
 	+	70	0
 	+	76	0
-	+	10	16
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/72ea7c4f-7930-4fb9-b7d8-7313d04f03ce/home/jaggerr/CARVAJAL/item_e/item_e_2/run_top.j
-	*	1507434248	0
-	"	91	15
-	^	91	16
-	.	92	0
-	+	93	0
-	+	50	0
-	+	91	0
-	+	92	0
-
-> ~/Desktop/test
-	"	42	6
-	^	42	7
-	.	42	6
-	+	63	6
-	+	87	0
-	+	83	100
-	+	81	50
-	+	82	50
-	+	83	50
-	+	88	0
-	+	87	53
-	+	88	0
-	+	87	38
-	+	88	52
-	+	37	14
-	+	39	14
-	+	32	49
-	+	17	13
-	+	42	6
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/72ea7c4f-7930-4fb9-b7d8-7313d04f03ce/home/jaggerr/CARVAJAL/item_e/item_e_2/scr
-	*	1507417760	0
-	"	14	29
-	^	14	29
-	.	2	10
-	+	2	10
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/72ea7c4f-7930-4fb9-b7d8-7313d04f03ce/home/jaggerr/CARVAJAL/item_e/diff.in
-	*	1507412924	0
-	"	34	0
-	^	124	27
-	.	124	26
+	+	10	22
+	+	1	0
+	+	10	12
 	+	11	0
-	+	12	0
-	+	60	95
-	+	81	95
-	+	71	18
-	+	93	0
-	+	51	19
-	+	52	0
-	+	60	0
-	+	61	0
-	+	81	0
-	+	143	0
-	+	60	15
-	+	81	15
-	+	101	45
-	+	103	0
-	+	101	0
-	+	101	15
-	+	20	0
-	+	143	15
-	+	122	19
-	+	123	27
-	+	125	9
-	+	127	10
-	+	128	9
-	+	129	9
-	+	131	0
-	+	129	9
-	+	128	0
-	+	135	7
-	+	128	1
-	+	129	1
-	+	130	1
-	+	129	9
-	+	130	9
-	+	123	16
-	+	124	26
+	+	10	18
+	+	113	0
+	+	54	33
+	+	121	1
+	+	201	117
+	+	202	0
+	+	204	0
+	+	202	0
+	+	203	0
+	+	204	17
+	+	204	0
+	+	204	17
+	+	278	152
+	+	241	152
+	+	204	7
 
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/72ea7c4f-7930-4fb9-b7d8-7313d04f03ce/home/jaggerr/CARVAJAL/item_e/scr
-	*	1507404812	0
-	"	21	0
-	^	3	12
-	.	3	11
-	+	2	6
-	+	2	9
-	+	4	14
-	+	3	11
+> /Applications/MacVim.app/Contents/Resources/vim/gvimrc
+	*	1518909109	0
+	"	2	0
 
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/diff.in
-	*	1507404811	0
-	"	1	0
+> ~/Code/lemonswan-tinderbot/src/client/redux/api.ts
+	*	1518909056	0
+	"	29	7
+	^	29	8
+	.	29	0
+	+	29	0
 
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/72ea7c4f-7930-4fb9-b7d8-7313d04f03ce/home/jaggerr/CARVAJAL/item_e/density_diff.j
-	*	1507403684	0
-	"	145	0
-	^	145	0
-	.	145	0
-	+	15	0
-	+	16	0
-	+	6	21
-	+	7	29
-	+	56	0
-	+	49	30
-	+	60	62
-	+	54	0
-	+	50	8
-	+	51	38
-	+	52	0
-	+	53	0
-	+	52	24
-	+	54	0
-	+	53	27
-	+	48	33
-	+	87	0
-	+	72	12
-	+	73	13
-	+	87	0
-	+	92	11
-	+	93	18
-	+	73	18
-	+	53	21
-	+	145	0
-	+	146	0
-	+	108	0
-	+	132	0
-	+	131	1
-	+	115	0
-	+	131	0
-	+	116	0
-	+	116	7
-	+	117	7
-	+	115	27
-	+	116	12
-	+	115	15
-	+	117	11
-	+	116	27
-	+	117	28
-	+	131	0
-	+	118	0
-	+	131	0
-	+	118	13
-	+	119	14
-	+	120	14
-	+	122	0
-	+	121	8
-	+	122	10
-	+	121	18
-	+	122	28
-	+	123	11
-	+	124	10
-	+	129	8
-	+	141	0
-	+	144	19
-	+	145	0
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/72ea7c4f-7930-4fb9-b7d8-7313d04f03ce/home/jaggerr/CARVAJAL/item_e/run_top.j
-	*	1507403579	0
-	"	52	9
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/72ea7c4f-7930-4fb9-b7d8-7313d04f03ce/home/jaggerr/CARVAJAL/item_e/run_top_au.j
-	*	1507396649	0
-	"	91	75
-	^	91	75
-	.	91	74
-	+	91	74
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/72ea7c4f-7930-4fb9-b7d8-7313d04f03ce/home/jaggerr/CARVAJAL/item_e/run_top_co.j
-	*	1507396543	0
-	"	90	75
-	^	90	75
-	.	90	74
-	+	90	74
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/c8b48c1e-c975-41db-8e5c-39681008bce7/home/jaggerr/CARVAJAL/item_e/run_top_co.j
-	*	1507396489	0
-	"	1	0
-	^	90	72
-	.	52	11
-	+	80	0
-	+	62	7
-	+	63	6
-	+	76	33
-	+	77	33
-	+	81	0
-	+	6	19
-	+	7	20
-	+	52	11
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/c8b48c1e-c975-41db-8e5c-39681008bce7/home/jaggerr/CARVAJAL/item_e/scr
-	*	1507396458	0
-	"	4	16
-	^	4	17
-	.	5	0
-	+	2	22
-	+	3	11
-	+	20	6
-	+	22	0
-	+	4	0
-	+	5	0
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/c8b48c1e-c975-41db-8e5c-39681008bce7/home/jaggerr/CARVAJAL/item_e/run_top.j
-	*	1507396373	0
-	"	77	1
-	^	86	48
-	.	81	0
-	+	54	24
-	+	55	0
-	+	51	17
-	+	87	0
-	+	81	57
-	+	52	15
-	+	52	0
-	+	53	0
-	+	54	0
-	+	55	0
-	+	88	6
-	+	6	18
-	+	7	18
-	+	81	0
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/c8b48c1e-c975-41db-8e5c-39681008bce7/home/jaggerr/CARVAJAL/item_e/run_top_au.j
-	*	1507396311	0
-	"	52	9
-	^	52	10
-	.	53	0
-	+	79	0
-	+	84	0
-	+	82	48
-	+	63	6
-	+	62	7
-	+	78	0
-	+	6	19
-	+	7	20
-	+	52	0
-	+	53	0
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/c8b48c1e-c975-41db-8e5c-39681008bce7/home/jaggerr/CARVAJAL/scf_GeH_Ec70.out
-	*	1507396260	0
-	"	2718	0
-
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB5/itemc/run_bridge.j
-	*	1507388785	0
-	"	81	1
-	^	86	36
-	.	86	10
+> ~/Code/lemonswan-tinderbot/NERD_tree_3
+	*	1518908662	0
+	"	13	0
+	.	1	0
 	+	1	0
-	+	81	0
-	+	89	0
-	+	17	0
-	+	88	0
-	+	6	35
-	+	7	0
-	+	8	0
-	+	85	10
-	+	86	10
 
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB5/itemc/run_hollow.j
-	*	1507388784	0
-	"	87	0
-	^	87	0
-	.	81	24
-	+	6	29
-	+	7	0
-	+	8	0
-	+	81	24
+> ~/Code/lemonswan-tinderbot/README.md
+	*	1518908654	0
+	"	4	0
 
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB5/itemc/co_au.rx.in
-	*	1507328740	0
-	"	32	1
-	^	32	2
-	.	33	0
-	+	32	14
-	+	32	30
-	+	32	33
-	+	32	36
-	+	32	35
-	+	32	36
-	+	32	0
-	+	33	0
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/c8b48c1e-c975-41db-8e5c-39681008bce7/home/jaggerr/Germanane/2016/Chair/new/Phonons/USPP/Optimi_at_Gamma/Raman_LDA/scr
-	*	1507328359	0
-	"	4	15
-	^	4	16
-	.	4	15
-	+	4	15
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/c8b48c1e-c975-41db-8e5c-39681008bce7/home/jaggerr/Ph_Graphene/run_PH_Graphene_Ec50_prof_1
-	*	1507328357	0
-	"	124	11
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/c8b48c1e-c975-41db-8e5c-39681008bce7/home/jaggerr/CARVAJAL/run.j
-	*	1507328335	0
-	"	1	0
-	^	95	18
-	.	95	17
-	+	104	0
-	+	105	0
-	+	104	35
-	+	104	10
-	+	105	56
-	+	105	0
-	+	105	79
-	+	105	0
-	+	105	14
-	+	105	74
-	+	105	35
-	+	105	0
-	+	104	0
-	+	105	0
-	+	104	0
-	+	105	15
-	+	105	0
-	+	105	28
-	+	105	32
-	+	105	28
-	+	105	0
-	+	1	0
-	+	95	17
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/c8b48c1e-c975-41db-8e5c-39681008bce7/home/jaggerr/CARVAJAL/scr
-	*	1507327369	0
-	"	11	0
-	^	11	0
-	.	11	0
-	+	1	0
-	+	2	9
-	+	6	0
-	+	10	7
-	+	11	0
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/c8b48c1e-c975-41db-8e5c-39681008bce7/home/jaggerr/Germanane/2016/Chair/new/EvsEcut/scr
-	*	1507327248	0
-	"	5	0
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/c8b48c1e-c975-41db-8e5c-39681008bce7/home/jaggerr/Germanane/2016/Chair/new/scr
-	*	1507327224	0
-	"	1	0
-
-> ~/Downloads/scr2
-	*	1507327192	0
-	"	9	25
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/c8b48c1e-c975-41db-8e5c-39681008bce7/home/jaggerr/Germanane/2016/Chair/new/Phonons/USPP/Optimi_at_Gamma/Raman_LDA/run_PH_GeH_Ec80_Gamma_point
-	*	1507324859	0
-	"	15	33
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/c8b48c1e-c975-41db-8e5c-39681008bce7/home/jaggerr/ASnNR/14SnFNR/15W/run_15ASnFNR_SOC_fierro
-	*	1507324850	0
-	"	28	42
-
-> ~/Dropbox/Maestria/Materias/DFT_II/practicas/FINAL/PROB5/itemb/co_au.rx.in
-	*	1507322601	0
-	"	1	0
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/c8b48c1e-c975-41db-8e5c-39681008bce7/home/jaggerr/ASnNR/ASNR/scr2
-	*	1507321732	0
-	"	1	0
-
-> /private/var/folders/pj/yck2z_zd3kg53_wr4797fff40000gp/T/c8b48c1e-c975-41db-8e5c-39681008bce7/home/jaggerr/ASnNR/ASNR/run_relax_22ASnNR_new
-	*	1507321704	0
+> ~/Code/lemonswan-tinderbot/log.txt
+	*	1518908648	0
 	"	3	0
 
-> ~/Downloads/Lab3 3/scripts/Co.ABCAC.j
-	*	1507321522	0
-	"	150	3
+> ~/Code/lemonswan-tinderbot/Dockerfile
+	*	1518908646	0
+	"	5	0
+
+> ~/Code/lemonswan-tinderbot/NERD_tree_2
+	*	1518908638	0
+	"	51	12
+	.	1	0
+	+	1	0
+
+> ~/Code/lemonswan-tinderbot/src/client/App.tsx
+	*	1518908634	0
+	"	4	0
+
+> ~/Code/lemonswan-tinderbot/src/client/views/SearchView/steps/PictureUploadButton.tsx
+	*	1518908630	0
+	"	61	0
+	^	67	41
+	.	67	38
+	+	21	12
+	+	51	56
+	+	51	59
+	+	52	0
+	+	51	35
+	+	63	32
+	+	63	38
+	+	67	38
+
+> ~/.vimrc
+	*	1518908626	0
+	"	61	33
+	^	61	34
+	.	61	33
+	+	61	33
+
+> ~/Code/lemonswan-tinderbot/src/client/views/SearchView/steps/SelectName.tsx
+	*	1518907304	0
+	"	46	10
+	^	52	72
+	.	52	71
+	+	52	71
+
+> ~/Code/lemonswan-tinderbot/src/client/views/SearchView/steps/NameAutocompleteField.tsx
+	*	1518907243	0
+	"	30	23
+
+> ~/Code/lemonswan-tinderbot/src/client/views/SearchView/steps/PhotoModal.tsx
+	*	1518907099	0
+	"	30	16
+
+> ~/Code/lemonswan-tinderbot/NERD_tree_1
+	*	1518906378	0
+	"	10	1
+	.	1	0
+	+	1	0
+
+> ~/Code/lemonswan-tinderbot/src/client/views/SearchView/steps/PictureUploadButton.less
+	*	1518905000	0
+	"	5	0
+
+> ~/Code/lemonswan-tinderbot/node_modules/lodash/lodash.js
+	*	1518820120	0
+	"	1	0
+
+> ~/Code/lemonswan-tinderbot/deployment/docker-compose.yml
+	*	1518705290	0
+	"	27	0
+	.	27	0
+	+	27	0
+
+> ~/Code/TSJ/tsj-core/README.md
+	*	1518596896	0
+	"	29	8
+	^	29	9
+	.	28	33
+	+	18	14
+	+	14	15
+	+	15	13
+	+	17	10
+	+	22	3
+	+	20	26
+	+	21	3
+	+	26	3
+	+	26	2
+	+	25	58
+	+	25	0
+	+	25	50
+	+	26	0
+	+	29	0
+	+	22	48
+	+	26	3
+	+	28	33
+
+> ~/Code/GuiaAnimus/.git/COMMIT_EDITMSG
+	*	1518561117	0
+	"	1	0
+
+> ~/Code/GuiaAnimus/.git/rebase-merge/git-rebase-todo
+	*	1518561115	0
+	"	1	18
+	^	1	19
+	.	1	18
+	+	1	18
+
+> ~/Code/chiara-backend/.gitignore
+	*	1518515180	0
+	"	9	0
+	^	9	0
+	.	8	72
+	+	8	72
+
+> ~/Code/chiara-backend/NERD_tree_1
+	*	1518515123	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/Code/GuiaAnimus/ios/Podfile
+	*	1518347770	0
+	"	1	2
+	^	26	89
+	.	26	88
+	+	26	88
+
+> ~/Downloads/animusargentina-bariloche-backend-e881fa7f16ea/app/routes/users.js
+	*	1518287924	0
+	"	246	9
+
+> ~/Downloads/react-native-mapbox-gl-master/example/scripts/set_access_token.js
+	*	1518284154	0
+	"	6	0
+
+> ~/Code/chiara-backend/src/app/views/abm/orders/history.html
+	*	1517823376	0
+	"	154	54
+	^	99	48
+	.	99	47
+	+	127	53
+	+	99	47
+
+> ~/Code/chiara-backend/NERD_tree_3
+	*	1517823277	0
+	"	27	16
+	.	1	0
+	+	1	0
+
+> ~/Code/chiara-backend/src/app/views/abm/orders/detail.html
+	*	1517823268	0
+	"	109	69
+	^	109	70
+	.	109	69
+	+	117	0
+	+	101	24
+	+	114	0
+	+	103	10
+	+	113	0
+	+	104	43
+	+	112	17
+	+	111	0
+	+	106	0
+	+	103	27
+	+	106	42
+	+	110	0
+	+	106	65
+	+	109	15
+	+	107	45
+	+	108	37
+	+	109	69
+
+> ~/Code/chiara-backend/src/app/views/abm/orders/list.html
+	*	1517823038	0
+	"	7	0
+	^	4	24
+
+> ~/Code/chiara-backend/src/app/public/assets/templates/neworder.js
+	*	1517823033	0
+	"	28	0
+
+> ~/Code/chiara-backend/src/app/public/assets/scripts/templates.js
+	*	1517823026	0
+	"	56	101
+
+> ~/Code/chiara-backend/NERD_tree_2
+	*	1517822205	0
+	"	32	6
+	.	1	0
+	+	1	0
+
+> ~/Code/chiara-backend/src/app/controllers/order.ctrl.js
+	*	1517822036	0
+	"	460	62
+	^	460	63
+	.	460	62
+	+	457	0
+	+	458	51
+	+	459	18
+	+	460	62
+
+> ~/Code/chiara-backend/src/app/data/models/order.js
+	*	1517822022	0
+	"	67	0
+
+> ~/NERD_tree_1
+	*	1517821839	0
+	"	5	0
+	.	1	0
+	+	1	0
+
+> ~/NERD_tree_2
+	*	1517821839	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Code/PhD Antwerpen/julia.jl
+	*	1517821771	0
+	"	4	0
+	^	2	0
+	.	1	13
+	+	3	3
+	+	1	13
+
+> ~/const.cpp
+	*	1517575202	0
+	"	1	0
+
+> ~/Code/flaxpro/client/.gitignore
+	*	1517421684	0
+	"	18	0
+
+> ~/.gitignore_global
+	*	1517421654	0
+	"	35	0
+	^	35	0
+	.	64	0
+	+	65	0
+	+	64	0
+
+> ~/Code/redux-todo-list/README.md
+	*	1517393803	0
+	"	909	0
+	^	980	4
+	.	980	2
+	+	812	4
+	+	980	2
+
+> ~/Code/chiara-backend/node_modules/sequelize/lib/sequelize.js
+	*	1517242889	0
+	"	231	4
+
+> ~/WORK/vscode-fortran-support/.git/MERGE_MSG
+	*	1517116223	0
+	"	1	0
+
+> ~/Desktop/design_patterns/maze/main.cpp
+	*	1517107718	0
+	"	65	3
+
+> ~/WORK/almundo/server/src/api/index.js
+	*	1517107688	0
+	"	9	1
+
+> ~/tags
+	*	1517100491	0
+	"	1	0
+
+> ~/exx.f90
+	*	1517098967	0
+	"	1	0
+
+> ~/.zsh
+	*	1516597481	0
+	"	1	0
+
+> ~/WORK/chiara-android/config.xml
+	*	1516416847	0
+	"	48	0
+
+> ~/WORK/chiara-backend/NERD_tree_1
+	*	1516147062	0
+	"	21	0
+	.	1	0
+	+	1	0
+
+> ~/WORK/chiara-backend/src/app/controllers/promotions.ctrl.js
+	*	1516147045	0
+	"	190	8
+	.	922	15
+	+	922	15
+
+> ~/WORK/hello-world/README.md
+	*	1515939438	0
+	"	66	0
+
+> ~/WORK/mamu-app/www/index.html
+	*	1515876141	0
+	"	140	11
+	^	119	45
+	.	140	11
+	+	119	0
+	+	133	0
+	+	140	11
+
+> ~/WORK/redux-todo-list/package.json
+	*	1515684118	0
+	"	36	37
+	^	36	38
+	.	36	37
+	+	36	61
+	+	37	0
+	+	32	0
+	+	36	37
+
+> ~/WORK/chiara-backend/src/app/controllers/uploads.ctrl.js
+	*	1515600925	0
+	"	10	0
+
+> ~/WORK/WebTurista/ApiSistema/source/config.js
+	*	1515589266	0
+	"	32	25
+	^	32	26
+	.	32	25
+	+	44	23
+	+	46	0
+	+	21	34
+	+	23	0
+	+	32	20
+	+	34	28
+	+	32	26
+	+	30	32
+	+	32	26
+	+	34	29
+	+	36	70
+	+	32	25
+	o	21	30
+
+> ~/WORK/WebTurista/ApiSistema/source/docker-compose.yml
+	*	1515589167	0
+	"	1	0
+	^	4	25
+	.	4	24
+	+	5	26
+	+	4	24
+	+	4	32
+	+	4	39
+	+	4	40
+	+	4	24
+
+> ~/WORK/WebTurista/ApiSistema/source/Dockerfile
+	*	1515589022	0
+	"	13	0
+	^	8	28
+	.	8	27
+	+	8	27
+
+> ~/WORK/WebTurista/ApiSistema/README.md
+	*	1515587886	0
+	"	76	0
+
+> ~/WORK/docker-tutorial/docker-compose.yml
+	*	1515587569	0
+	"	16	6
+	^	22	6
+	.	22	13
+	+	24	8
+	+	12	18
+	+	1	11
+	+	22	13
+
+> ~/WORK/docker-tutorial/Dockerfile
+	*	1515587480	0
+	"	4	0
+
+> ~/WORK/WebTurista/ApiSistema/source/package.json
+	*	1515586920	0
+	"	46	0
+
+> ~/WORK/vscode/.git/COMMIT_EDITMSG
+	*	1515566369	0
+	"	3	45
+	^	3	46
+	.	3	45
+	+	7	0
+	+	4	0
+	+	3	45
+
+> ~/WORK/vscode/.git/rebase-merge/git-rebase-todo
+	*	1515566263	0
+	"	2	6
+	^	2	7
+	.	2	6
+	+	2	6
+
+> ~/airfocus/docker-compose.yml
+	*	1515563713	0
+	"	18	9
+
+> ~/airfocus/Dockerfile
+	*	1515563677	0
+	"	14	0
+
+> ~/WORK/vscode-fortran-support/language-configuration.json
+	*	1515563080	0
+	"	55	0
+
+> ~/WORK/redux-todo-list/Dockerfile
+	*	1515562186	0
+	"	8	13
+	^	8	14
+	.	8	13
+	+	1	15
+	+	2	0
+	+	1	3
+	+	4	3
+	+	3	18
+	+	5	15
+	+	4	15
+	+	8	14
+	+	9	0
+	+	7	10
+	+	8	13
+
+> ~/Downloads/gustos la chiara - Hoja1.csv
+	*	1515441079	0
+	"	12	16
+
+> ~/WORK/simple-react-router/src/components/bootstrap/NavTab.js
+	*	1515082510	0
+	"	9	11
+	^	9	12
+	.	9	12
+	+	2	25
+	+	2	2
+	+	2	0
+	+	2	18
+	+	2	0
+	+	8	33
+	+	13	12
+	+	22	16
+	+	22	13
+	+	14	44
+	+	18	12
+	+	22	8
+	+	21	0
+	+	19	0
+	+	19	27
+	+	20	59
+	+	15	36
+	+	17	55
+	+	23	0
+	+	14	12
+	+	2	36
+	+	25	21
+	+	15	35
+	+	16	12
+	+	10	2
+	+	12	3
+	+	5	0
+	+	9	12
+
+> ~/WORK/simple-react-router/src/views/DashboardView/DashboardView.js
+	*	1515081998	0
+	"	7	57
+	^	7	58
+	.	7	57
+	+	8	0
+	+	7	13
+	+	7	56
+	+	135	0
+	+	7	0
+	+	134	19
+	+	141	18
+	+	140	29
+	+	135	30
+	+	7	13
+	+	7	57
+
+> ~/Downloads/deep-js-foundations/NERD_tree_2
+	*	1514738865	0
+	"	13	10
+	.	1	0
+	+	1	0
+
+> ~/Downloads/deep-js-foundations/exercises/ex3-hoisting/ex3.js
+	*	1514738865	0
+	"	167	0
+
+> ~/Downloads/deep-js-foundations/exercises/ex3-hoisting/README.md
+	*	1514738825	0
+	"	12	145
+
+> ~/Downloads/deep-js-foundations/NERD_tree_1
+	*	1514738778	0
+	"	15	0
+	.	1	0
+	+	1	0
+
+> ~/WORK/react-auth0/src/server/index.js
+	*	1514691986	0
+	"	22	7
+	^	18	26
+	.	18	25
+	+	2	4
+	+	2	0
+	+	3	0
+	+	2	0
+	+	11	48
+	+	14	24
+	+	22	0
+	+	11	0
+	+	22	42
+	+	11	47
+	+	16	41
+	+	18	25
+
+> ~/airfocus/src/client/components/NERD_tree_1
+	*	1514061660	0
+	"	32	2
+	.	1	0
+	+	1	0
+
+> ~/WORK/mamu-app/platforms/ios/Podfile
+	*	1513864008	0
+	"	5	24
+	^	5	25
+	.	6	0
+	+	9	7
+	+	3	0
+	+	4	0
+	+	7	14
+	+	5	25
+	+	6	0
+
+> ~/WORK/mamuschka-android/platforms/android/res/values/style.xml
+	*	1513863809	0
+	"	6	34
+
+> ~/Downloads/Liquidaciones-Tribunal Superior de Justicia (11).csv
+	*	1513743995	0
+	"	1	0
+
+> ~/Downloads/Liquidaciones-Tribunal Superior de Justicia (10).csv
+	*	1513743985	0
+	"	1	0
+
+> ~/Downloads/Liquidaciones-Tribunal Superior de Justicia (9).csv
+	*	1513743916	0
+	"	7	26
+
+> ~/Downloads/Liquidaciones-Tribunal Superior de Justicia (7).csv
+	*	1513743621	0
+	"	3	51
+
+> ~/Downloads/Liquidaciones-Tribunal Superior de Justicia (6).csv
+	*	1513742109	0
+	"	2	40

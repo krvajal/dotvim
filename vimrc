@@ -58,3 +58,4 @@ autocmd QuickFixCmdPost    l* nested lwindow
 
 " Set color theme to dracula"
 color dracula
+let NERDTreeMapOpenInTab='<ENTER>'

@@ -7,3 +7,18 @@
 [submodule "/Users/carvajal/.vim/bundle/vim-airline"]
 	path = /Users/carvajal/.vim/bundle/vim-airline
 	url = https://github.com/vim-airline/vim-airline
+[submodule "bundle/command-t"]
+	url = https://github.com/wincent/command-t.git
+	path = bundle/command-t
+[submodule "bundle/nerdree"]
+	path = bundle/nerdtree
+  url = git@github.com:scrooloose/nerdtree.git 
+[submodule "bundle/typescript-vim"]
+	path = bundle/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "bundle/vimtex"]
+	path = bundle/vimtex
+	url = https://github.com/lervag/vimtex.git
